@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deux99
-- 👀 I’m interested in mobile app development
-- 🌱 I’m currently learning React native
+- 🌱 I’m currently learning React, asp.net, c#
 - 💞️ I’m looking to collaborate on software engineering projects
 - 📫 you can reach me shalukamahagamage@gmail.com 
 
