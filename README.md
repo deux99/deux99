@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deux99
-- 🌱 I’m currently learning React, asp.net, c#
-- 💞️ I’m looking to collaborate on software engineering projects
+- 🌱 I’m currently learning REACT JS, NEXT JS
+- 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me shalukamahagamage@gmail.com 
 
 <!---
