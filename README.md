@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @deux99
-- 🌱 I’m currently learning REACT JS, NEXT JS
+- 👋 Hi, I’m Shaluka Manodya
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me shalukamahagamage@gmail.com 
 
