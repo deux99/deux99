@@ -1,3 +1,7 @@
+
+![1719350775738](https://github.com/user-attachments/assets/714858bf-543c-4931-a93b-2e9b883fcdbc)
+
+
 - 👋 Hi, I’m Shaluka Manodya
 - 💞️ I’m looking to collaborate on projects
 - 📫 you can reach me shalukamahagamage@gmail.com 
